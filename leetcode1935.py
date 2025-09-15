@@ -18,4 +18,4 @@ class Solution(object):
             flag = False
         return counter
 
-# Finished this on my second try in < 3 minutes, which I'm pretty proud of. Only forgot a colon on the second if statement.
+# Finished this on my second try in < 3 minutes, which I'm pretty proud of. Only forgot a colon on the second if statement. Also used 0ms of runtime as well.
